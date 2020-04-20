@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instala%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-especificacao-dos-testes">Especificação dos testes</a>
+  <a href="#-especifica%C3%A7%C3%A3o-dos-testes">Especificação dos testes</a>
 </p>
 
 ## 🖥 Tecnologias
